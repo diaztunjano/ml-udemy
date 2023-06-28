@@ -1,1 +1,8 @@
 .DS_Store
+*.csv
+*.log
+*.pid
+# venv:
+.venv/
+# pyenv:
+.python-version
